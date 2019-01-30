@@ -1,0 +1,6 @@
+/Users/nishantgupta/Projects/BattleshipStateTracker/BattleshipStateTracker/bin/Debug/BattleshipStateTracker.exe
+/Users/nishantgupta/Projects/BattleshipStateTracker/BattleshipStateTracker/bin/Debug/BattleshipStateTracker.pdb
+/Users/nishantgupta/Projects/BattleshipStateTracker/BattleshipStateTracker/obj/x86/Debug/BattleshipStateTracker.csprojAssemblyReference.cache
+/Users/nishantgupta/Projects/BattleshipStateTracker/BattleshipStateTracker/obj/x86/Debug/BattleshipStateTracker.csproj.CoreCompileInputs.cache
+/Users/nishantgupta/Projects/BattleshipStateTracker/BattleshipStateTracker/obj/x86/Debug/BattleshipStateTracker.exe
+/Users/nishantgupta/Projects/BattleshipStateTracker/BattleshipStateTracker/obj/x86/Debug/BattleshipStateTracker.pdb
